@@ -1,0 +1,54 @@
+# Telas
+
+- Tela Principal 
+    - Header
+    - Footer page
+    - listagem de produtos
+        - Imagem
+        - Preço
+        - Descrição do produto
+        - Quantidade de parcelamento
+    - Produtos por categoria
+- Carinho de compras
+    - Informações do produto
+    - Quantidade disponivel
+    - Calculo do produto
+    - SubTotal com frente
+    - Botão de continuar a compra
+- Tela de um produto apenas
+    - Header
+    - Footer 
+    - Descrição do produto
+    - Imagem
+    - Valor
+    - Botão de compra
+    - Adicionar ao carrinho
+    - Informações de entrega
+    - Informações de venda
+    - Informações se tem a pronta entrega
+    - Meios de pagamento
+- Tela de usuário
+    - Login
+    - Informações sobre usuário
+    - Tela de pedido
+    - Pagamento
+    - Endereço
+    - Produtos cancelados
+- Tela de entrega
+    - Formulario de endereço
+    - Botão para adicionar
+    - Botão para selecionar qual endereço desejo
+- Tela de pagamento
+    - Formulario com forma de pagamento
+    - Botão para adicionar
+    - Botão para selecionar qual forma de pagamento
+- Resumo do pedido
+    - Informações do produto
+    - informação de pagamento
+    - informações de entrega
+    - botão para confirmação do pedido.
+
+# Extra
+
+- Ver produtos de uma loja/vendedor
+- Favoritar um produto
