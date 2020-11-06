@@ -1,10 +1,14 @@
-import React from "react"
+import React from "react";
+
+import Header from "../../componentes/header";
 
 const Principal = () => {
+  return (
+    <div>
+      <Header />
+      Principal{" "}
+    </div>
+  );
+};
 
-    return (
-        <div> Principal </div>
-    )
-}
-
-export default Principal
+export default Principal;
